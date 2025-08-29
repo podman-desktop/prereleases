@@ -2,7 +2,7 @@
   "name": "compose",
   "displayName": "Compose",
   "description": "Install Compose binary to work with Podman",
-  "version": "1.22.0-next",
+  "version": "1.22.0-202508291613-8a8fc3c8658",
   "icon": "icon.png",
   "publisher": "podman-desktop",
   "license": "Apache-2.0",
