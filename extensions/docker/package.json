@@ -2,7 +2,7 @@
   "name": "docker",
   "displayName": "Docker",
   "description": "Integration for Docker engine",
-  "version": "1.23.0-next",
+  "version": "1.23.0-next.202510020344-e4edace27c2",
   "icon": "icon.png",
   "publisher": "podman-desktop",
   "license": "Apache-2.0",
