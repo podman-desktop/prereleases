@@ -2,7 +2,7 @@
   "name": "lima",
   "displayName": "Lima",
   "description": "Integration for Lima: Linux Machines (typically macOS)",
-  "version": "1.25.0-next",
+  "version": "1.25.0-next.202512090626-3a67781a336",
   "icon": "icon.png",
   "publisher": "podman-desktop",
   "license": "Apache-2.0",
