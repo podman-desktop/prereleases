@@ -2,7 +2,7 @@
   "name": "kubectl-cli",
   "displayName": "kubectl CLI",
   "description": "Install and update kubectl CLI Tools without leaving Podman Desktop",
-  "version": "1.25.0-next",
+  "version": "1.25.0-next.202512191021-9361f9c572d",
   "icon": "icon.png",
   "publisher": "podman-desktop",
   "license": "Apache-2.0",
