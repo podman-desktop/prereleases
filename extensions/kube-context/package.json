@@ -2,7 +2,7 @@
   "name": "kube-context",
   "displayName": "Kube Context",
   "description": "Easily switch between Kubernetes contexts",
-  "version": "1.25.0-next",
+  "version": "1.25.0-next.202601070623-9d86e026b40",
   "icon": "icon.png",
   "publisher": "podman-desktop",
   "license": "Apache-2.0",
