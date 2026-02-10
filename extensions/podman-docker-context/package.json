@@ -2,7 +2,7 @@
   "name": "podman-docker-context",
   "displayName": "Podman Docker Context",
   "description": "Synchronize Docker Contexts with Podman",
-  "version": "1.26.0-next",
+  "version": "1.26.0-next.202602100648-8fae3d034ef",
   "icon": "icon.png",
   "publisher": "podman-desktop",
   "license": "Apache-2.0",
