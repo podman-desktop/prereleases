@@ -1,6 +1,6 @@
 {
   "name": "@podman-desktop/preload",
-  "version": "1.26.0-next",
+  "version": "1.26.0-next.202602110832-2816fb77f2b",
   "type": "module",
   "license": "Apache-2.0",
   "files": [
