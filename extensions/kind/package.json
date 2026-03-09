@@ -2,7 +2,7 @@
   "name": "kind",
   "displayName": "Kind",
   "description": "Integration for Kind: run local Kubernetes clusters using container “nodes”",
-  "version": "1.26.0-next",
+  "version": "1.26.0-next.202603090550-8311de3f6d6",
   "icon": "icon.png",
   "publisher": "podman-desktop",
   "license": "Apache-2.0",
