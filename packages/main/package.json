@@ -1,6 +1,6 @@
 {
   "name": "@podman-desktop/main",
-  "version": "1.26.0-next",
+  "version": "1.26.0-next.202603101225-1172ebb5d03",
   "description": "main package (running Node.js part of the application)",
   "type": "module",
   "license": "Apache-2.0",
