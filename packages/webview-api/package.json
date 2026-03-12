@@ -1,6 +1,6 @@
 {
   "name": "@podman-desktop/webview-api",
-  "version": "0.0.1",
+  "version": "1.26.0-next.202603121329-a3d29f7b97f",
   "description": "API for Podman Desktop extensions",
   "repository": "https://github.com/podman-desktop/podman-desktop",
   "publishConfig": {
