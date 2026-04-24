@@ -1,6 +1,6 @@
 {
   "name": "renderer",
-  "version": "1.28.0-next",
+  "version": "1.28.0-next.202604240436-0ff71ce6e84",
   "type": "module",
   "license": "Apache-2.0",
   "scripts": {
