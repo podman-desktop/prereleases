@@ -1,6 +1,6 @@
 {
   "name": "@podman-desktop/core-api",
-  "version": "1.28.0-next",
+  "version": "1.28.0-next.202606021051-cde0b4a0c4c",
   "description": "API to be consumed by main/renderer/preload packages",
   "type": "module",
   "license": "Apache-2.0",
