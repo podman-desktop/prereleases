@@ -1,6 +1,6 @@
 {
   "name": "@podman-desktop/ui-svelte",
-  "version": "1.29.0-next",
+  "version": "1.29.0-next.202606291202-7a3ede58a23",
   "type": "module",
   "repository": "https://github.com/podman-desktop/podman-desktop",
   "license": "Apache-2.0",
