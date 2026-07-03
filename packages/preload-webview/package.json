@@ -1,6 +1,6 @@
 {
   "name": "preload-webview",
-  "version": "1.29.0-next",
+  "version": "1.29.0-next.202607030756-9a1cc6fce14",
   "license": "apache-2.0",
   "type": "module",
   "private": true,
