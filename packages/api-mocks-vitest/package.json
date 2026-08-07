@@ -1,6 +1,6 @@
 {
   "name": "@podman-desktop/api-mocks-vitest",
-  "version": "1.30.0-next",
+  "version": "1.30.0-next.202608071940-f7bb0b2e90e",
   "description": "Vitest mocks of the Podman Desktop extension API for use in third-party extension tests",
   "repository": "https://github.com/podman-desktop/podman-desktop",
   "publishConfig": {
