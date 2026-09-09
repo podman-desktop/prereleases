@@ -1,6 +1,6 @@
 {
   "name": "@podman-desktop/api",
-  "version": "1.30.0-next",
+  "version": "1.30.0-next.202609091256-39557c9a372",
   "description": "API for Podman Desktop extensions",
   "repository": "https://github.com/podman-desktop/podman-desktop",
   "publishConfig": {
