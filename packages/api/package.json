@@ -1,6 +1,6 @@
 {
   "name": "@desktop-framework/api",
-  "version": "1.31.0-next",
+  "version": "1.31.0-next.202611020948-1d87388d372",
   "description": "API to be consumed by main/renderer/preload packages",
   "type": "module",
   "license": "Apache-2.0",
