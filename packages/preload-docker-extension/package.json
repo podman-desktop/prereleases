@@ -1,6 +1,6 @@
 {
   "name": "@podman-desktop/preload-docker-extension",
-  "version": "1.32.0-next",
+  "version": "1.32.0-next.202611240346-3ca8ff0cdad",
   "type": "module",
   "license": "Apache-2.0",
   "files": [
